@@ -26,5 +26,5 @@
 
 🍿 {TWEET_TEXT}
 
-• Powered by **[TgTwitterStreamer]({_REPO_LINK})**
+•**[Official Twitter]({_REPO_LINK})**
 ```

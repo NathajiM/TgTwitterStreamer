@@ -5,14 +5,14 @@
 
 from Configs import Var
 
-REPO_LINK = "https://github.com/New-dev0/TgTwitterStreamer"
+REPO_LINK = "https://twitter.com/bankerdoge"
 
 
-CUSTOM_FORMAT = """🎊 **[{SENDER}]({SENDER_PROFILE})** :
+CUSTOM_FORMAT = """🚨 NEW **[{SENDER}]({SENDER_PROFILE})** TWEET ALERT 🚨:
 
-🍿 {TWEET_TEXT}
+{TWEET_TEXT}
 
-• Powered by **[TgTwitterStreamer]({_REPO_LINK})**"""
+• **[Official Twitter]({_REPO_LINK})**"""
 
 
 if not Var.CUSTOM_TEXT:
